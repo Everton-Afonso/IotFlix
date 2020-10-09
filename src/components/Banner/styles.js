@@ -9,7 +9,7 @@ export const ContentAreaContainer = styled.section`
 	justify-content: center;
 	position: relative;
 	z-index: 10;
-	margin-top: 100px;
+	margin-top: 70.4px;
 	@media (max-width: 800px) {
 		margin-top: 20px;
 		padding-top: 100px;
