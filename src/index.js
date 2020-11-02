@@ -1,16 +1,16 @@
 import React from "react";
 import ReactDOM from "react-dom";
-
-import Header from "./components/Header";
-import App from "./App";
-import Footer from "./components/Footer";
+import Home from "./pages/Home";
+import Categorias from "./pages/Categorias";
+import { Redirect , Switch, Route, BrowserRouter } from 'react-router-dom';
 import "./index.css";
 
 ReactDOM.render(
-	<React.StrictMode>
-		<Header />
-		<App />
-		<Footer />
-	</React.StrictMode>,
+	<BrowserRouter>
+		<Switch>
+			<Route path="/" component={Home} exact/>
+			<Route path="/categorias" component={Categorias}/>
+		</Switch>
+	</BrowserRouter>,
 	document.getElementById("root")
 );

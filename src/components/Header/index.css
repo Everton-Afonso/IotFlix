@@ -36,3 +36,13 @@ body {
 		padding-top: var(--bodyPaddingTop);
 	}
 }
+.link {
+	padding: 0.5rem 1rem;
+	text-decoration: none;
+	font-weight: bold;
+}
+.link:hover {
+	text-decoration: none;
+	font-weight: bold;
+	color: #fff;
+}
