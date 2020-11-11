@@ -11,7 +11,7 @@ function Header() {
 				<img src={Logo} className="logo" alt="IotFlix Logo" />
 			</a>
 			<Button variant="danger">
-				<Link to="/Categorias" className="link">Login</Link>
+				<Link to="/Categorias" className="link">Login</Link> {/* alterar o botão de login quando o matheus pedir*/}
 			</Button>
 		</nav>
 	);
