@@ -1,5 +1,5 @@
 {
-  "name": "iotflix",
+  "name": "meuflix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,12 +8,11 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
-    "react-bootstrap": "^1.4.0",
     "react-dom": "^16.13.1",
     "react-hook-form": "^6.9.6",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.3",
-    "react-slick": "^0.27.12",
+    "react-slick": "^0.27.11",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.2.0"
   },
@@ -39,21 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
-  "main": "server.js",
-  "devDependencies": {
-    "json-server": "^0.16.2"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Everton-Afonso/IotFlix.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Everton-Afonso/IotFlix/issues"
-  },
-  "homepage": "https://github.com/Everton-Afonso/IotFlix#readme"
+  }
 }
