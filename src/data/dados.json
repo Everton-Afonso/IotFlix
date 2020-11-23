@@ -1,7 +1,7 @@
 {
 	"categorias": [
 		{
-			"titulo": "Nossos Vídeos",
+			"titulo": "IoT (Internet das Coisas)",
 			"link": "https://www.alura.com.br/formacao-front-end",
 			"cor": "#6BD1FF",
 			"link_extra": {
@@ -14,37 +14,21 @@
 					"url": "https://youtu.be/Mkv8uH5regw"
 				},
 				{
-					"titulo": "Historia do Arduino",
-					"url": "https://youtu.be/9nucMfF15Ik"
+					"titulo": "IoT (Internet das Coisas)",
+					"url": "https://www.youtube.com/watch?v=qNHydTYkfcg"
 				},
 				{
-					"titulo": "Conceitos de Eletrônica para Arduino",
-					"url": "https://youtu.be/1_4Psagxtps"
+					"titulo": "Internet das Coisas - Tecmundo Explica",
+					"url": "https://www.youtube.com/watch?v=O8-oiSsZl1Y"
 				},
 				{
-					"titulo": "Conceitos básicos de Logica de programação",
-					"url": "https://youtu.be/i7CabAnxA5Q"
-				},
-				{
-					"titulo": "Primeira Aula Pratica",
-					"url": "https://youtu.be/KYPX_cxAFN0"
-				},
-				{
-					"titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-					"url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-				},
-				{
-					"titulo": "Novidades do Angular v9",
-					"url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
-				},
-				{
-					"titulo": "Base para aprender os frameworks",
-					"url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+					"titulo": "O que é internet das coisas - IoT",
+					"url": "https://www.youtube.com/watch?v=s4DUFhNexbU"
 				}
 			]
 		},
 		{
-			"titulo": "Fundamentos de Computação",
+			"titulo": "No futuro, tudo será conectado",
 			"cor": "#00C86F",
 			"link_extra": {
 				"text": "Cursos de Back End na Alura",
@@ -52,41 +36,25 @@
 			},
 			"videos": [
 				{
-					"titulo": "Fundamentos de Computação - Capitulo 1 (1º Parte)",
-					"url": "https://youtu.be/EQ3f7S70gk4"
+					"titulo": "Internet das coisas: no futuro, tudo será conectado",
+					"url": "https://www.youtube.com/watch?v=hJwZpq-6jmI"
 				},
 				{
-					"titulo": "Fundamentos de Computação - Capitulo 1 (2º Parte)",
-					"url": "https://youtu.be/r-o-BN9t5tw"
+					"titulo": "TUDO sobre a IOT - Internet of Things",
+					"url": "https://www.youtube.com/watch?v=2TXOZFmhGGo"
 				},
 				{
-					"titulo": "Fundamentos de Computação Capitulo 2 (1º Parte)",
-					"url": "https://youtu.be/A5d32FgPH3Q"
+					"titulo": "Internet das Coisas | Expresso Futuro com Ronaldo Lemos",
+					"url": "https://www.youtube.com/watch?v=vgu4eMKfQK0"
 				},
 				{
-					"titulo": "Fundamentos de Computação Capitulo 2 (2º Parte)",
-					"url": "https://youtu.be/fvBPRiugQv4"
-				},
-				{
-					"titulo": "Fundamentos de Computação Capitulo 4",
-					"url": "https://youtu.be/hHYqCmJkJKo"
-				},
-				{
-					"titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 1",
-					"url": "https://youtu.be/5WhkAu77AEo"
-				},
-				{
-					"titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 2",
-					"url": "https://youtu.be/cCboDBE5ZXc"
-				},
-				{
-					"titulo": "Fundamentos de Computação Capitulo 5 instalação do windows 10 parte 3",
-					"url": "https://youtu.be/Wss7jGz2Paw"
+					"titulo": "A Internet das coisas, explicada pelo NIC.br",
+					"url": "https://www.youtube.com/watch?v=jlkvzcG1UMk"
 				}
 			]
 		},
 		{
-			"titulo": "Data Science e Inteligência Artificial",
+			"titulo": "Como Programar para IoT",
 			"cor": "#9cd33b",
 			"link_extra": {
 				"text": "Cursos de Data Science na Alura",
@@ -94,42 +62,38 @@
 			},
 			"videos": [
 				{
-					"titulo": "Teste de Turing",
-					"url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+					"titulo": "Como Programar para IoT e Sistemas Embarcados no VS Code",
+					"url": "https://www.youtube.com/watch?v=WowSK2kLOzs"
 				},
 				{
-					"titulo": "O que é Data Science?",
-					"url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-				},
-				{
-					"titulo": "Melhor forma de aprender Python",
-					"url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-				},
-				{
-					"titulo": "Como ingressar no mercado de Data Science?",
-					"url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+					"titulo": "Você precisa conhecer a Arduino IOT Cloud! A Internet das Coisas fácil!",
+					"url": "https://www.youtube.com/watch?v=qZTMrj_w2Hk"
 				}
 			]
 		},
 		{
-			"titulo": "Filmes",
+			"titulo": "Automatize sua Vida",
 			"cor": "orange",
 			"videos": [
 				{
-					"titulo": "Interestellar",
-					"url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+					"titulo": "Amazon Fire TV Stick Lite - Análise Completa! Use a Alexa para Turbinar sua TV! Pagando BARATO!",
+					"url": "https://www.youtube.com/watch?v=ukdNwBsYEuE&list=PLS6Slb3TPujDAOn14h__-E3pACvp9IuzJ"
 				},
 				{
-					"titulo": "Gattaca",
-					"url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+					"titulo": "Amazon Echo Dot 4 - A Evolução da Alexa mais Vendida do Mundo! Unboxing + Comparação com Echo Dot 3",
+					"url": "https://www.youtube.com/watch?v=I6iUJZqyIEQ&list=PLS6Slb3TPujDAOn14h__-E3pACvp9IuzJ&index=2"
 				},
 				{
-					"titulo": "A Chegada",
-					"url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+					"titulo": "Intelbras Mibo - Um Kit Com Sensores Para Automatizar sua Casa! Compatível com Alexa! Análise",
+					"url": "https://www.youtube.com/watch?v=Im94r4Twv14&list=PLS6Slb3TPujDAOn14h__-E3pACvp9IuzJ&index=3"
 				},
 				{
-					"titulo": "Feitiço do Tempo",
-					"url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+					"titulo": "O Seu Samsung é Mais Esperto do que você Pensa! Essa dica faz toda diferença no uso!",
+					"url": "https://www.youtube.com/watch?v=X309qD4ouSs&list=PLS6Slb3TPujDAOn14h__-E3pACvp9IuzJ&index=4"
+				},
+				{
+					"titulo": "Como AUTOMATIZAR SUA CASA GASTANDO O MÍNIMO POSSÍVEL!! O que Comprar!? Como Fazer!? Dicas!",
+					"url": "https://www.youtube.com/watch?v=6XZzvliTNqo&list=PLS6Slb3TPujDAOn14h__-E3pACvp9IuzJ&index=14"
 				}
 			]
 		},
