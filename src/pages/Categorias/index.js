@@ -1,10 +1,22 @@
 import React, {useState, useEffect} from 'react';
 import Header from "../../components/Header";
 import Footer from "../../components/Footer";
+import ModalDialog from "../../components/Modal";
 import { useForm } from 'react-hook-form';
+import { Link, useHistory } from 'react-router-dom';
 import "./index.css";
 function CadastroCategoria() {
     const { register, handleSubmit, errors } = useForm();
+    const history = useHistory();
+    const [open, setOpen] = React.useState(false);
+    const handleClickOpen = () => {setOpen(true);};
+    const handleNo = () => {
+        setOpen(false);
+        history.push('/');
+    };
+    const handleYes = () => {
+        setOpen(false);
+    };
 
     function onSubmit(dados) {
         console.log("Dados:", dados);
@@ -19,13 +31,15 @@ function CadastroCategoria() {
         })
         .catch((error) => console.error("Error:", error))
         .then((response) => console.log("Success:", JSON.stringify(response)))
-            console.log(dados);
+        .then(handleClickOpen())
+        console.log(dados);
     }
     return (
         <div className="corpo">
             <Header />
             <h1> Cadastro Categoria </h1>
             <form onSubmit={handleSubmit(onSubmit)} className="form-group container-fluid">
+                
                 <input type="text" className="form-control" placeholder="Título" name="titulo" ref={register({required: true})} />
                 <br />
 
@@ -42,7 +56,20 @@ function CadastroCategoria() {
                 <input type="submit" className="btn btn-primary btn-lg" value="Salvar"/>
 
             </form>
+
+            <ModalDialog
+                open = {open}
+                handleClose = {handleNo}
+                titulo = 'Cadastrado com sucesso'
+                texto = 'Deseja fazer outro cadastro?'
+                handleSim = {handleYes}
+                handleNao = {handleNo}
+            />
+
+            <Link to="/">Ir para home</Link>
+
             <Footer />
+
         </div>
     )
 };
