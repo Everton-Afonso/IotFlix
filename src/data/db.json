@@ -6,72 +6,6 @@
       "cor": "#6BD1FF",
       "descricao": "IFSULDEMINAS - Campus Machado",
       "url": "https://info.mch.ifsuldeminas.edu.br/"
-    },
-    {
-      "id": 2,
-      "titulo": "Fundamentos de Computação",
-      "cor": "green",
-      "descricao": "IFSULDEMINAS - Campus Machadoa",
-      "url": "https://info.mch.ifsuldeminas.edu.br/"
-    },
-    {
-      "id": 3,
-      "titulo": "Front End",
-      "cor": "#6BD1FF",
-      "descricao": "Formação de Front End na Alura",
-      "url": "https://www.alura.com.br/cursos-online-front-end"
-    },
-    {
-      "id": 4,
-      "titulo": "Front End",
-      "cor": "#6BD1FF",
-      "descricao": "Formação de Front End na Alura",
-      "url": "https://www.alura.com.br/cursos-online-front-end"
-    },
-    {
-      "id": 5
-    },
-    {
-      "titulo": "Raspberry",
-      "descricao": "Site Oficial",
-      "url": "http://www.raspberry.org/",
-      "cor": "#db0f0f",
-      "id": 6
-    },
-    {
-      "titulo": "Teste",
-      "descricao": "Só um teste",
-      "url": "https://www.youtube.com/watch?v=aR-KAldshAE",
-      "cor": "#e21818",
-      "id": 7
-    },
-    {
-      "titulo": "Teste 1",
-      "descricao": "Só mais um teste",
-      "url": "https://www.youtube.com/watch?v=aR-KAldshAE",
-      "cor": "#3416ca",
-      "id": 8
-    },
-    {
-      "titulo": "Teste 2",
-      "descricao": "Outro teste",
-      "url": "https://www.youtube.com/watch?v=aR-KAldshAE",
-      "cor": "#b0da16",
-      "id": 9
-    },
-    {
-      "titulo": "Teste 2",
-      "descricao": "Outro teste",
-      "url": "https://www.youtube.com/watch?v=aR-KAldshAE",
-      "cor": "#b0da16",
-      "id": 10
-    },
-    {
-      "titulo": "Teste 3",
-      "descricao": "Só mais um teste",
-      "url": "https://www.youtube.com/watch?v=aR-KAldshAE",
-      "cor": "#b11b1b",
-      "id": 11
     }
   ],
   "videos": [
@@ -81,32 +15,6 @@
       "titulo": "O que é Arduino",
       "description": "O que é Arduino",
       "url": "https://www.youtube.com/watch?v=-iOuF0qSlv4"
-    },
-    {
-      "id": 2,
-      "categoriaId": 1,
-      "titulo": "Historia do Arduino",
-      "description": "Historia do Arduino",
-      "url": "https://youtu.be/9nucMfF15Ik"
-    },
-    {
-      "id": 3,
-      "categoriaId": 2,
-      "titulo": "Introdução ao Scratch - Curso de Algoritmos",
-      "description": "Introdução ao Scratch",
-      "url": "https://www.youtube.com/watch?v=GrPkuk1ezyo"
-    },
-    {
-      "id": 4,
-      "categoriaId": 3,
-      "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-      "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
-    },
-    {
-      "id": 5,
-      "categoriaId": 3,
-      "titulo": "Novidades do Angular v9",
-      "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
     }
   ]
 }
